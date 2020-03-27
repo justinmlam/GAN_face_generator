@@ -3,7 +3,7 @@ As part of Udacity's Deep Learning Nanodegree, I was tasked with creating a gene
 
 
 ## Description of Project
-In this project, a Jupyter notebook was given to me with tasks to complete. To finish this project, I had to show my ability to pre-process data (embedding and tokenizing words to be used by a neural network, batching and converting the data into data loaders), building a neural network, and training the model on a GPU. The file dlnd_face_generation.ipynb includes the work done by me, and problem_unittests.py is a unit test file created by Udacity that contains tests that are untouched by me.
+In this project, a Jupyter notebook was given to me with tasks to complete. To finish this project, I had to show my ability to pre-process data, build a neural network, and train the model on a GPU. The file dlnd_face_generation.ipynb includes the work done by me, and problem_unittests.py is a unit test file created by Udacity that contains tests that are untouched by me.
 
 ## Tasks and Learning Opportunities
 There are a few sections of the project.
